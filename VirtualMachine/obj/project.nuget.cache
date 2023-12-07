@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "9UAp+j0Xk7ARTM7kmKevM8MGIImSE3+DVyEBAPkkD8GNc7vRebe7NdOJucJO1pU0kCwhah0ConJAxvMD8sFHTw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sagharfadaei\\Desktop\\700112\\John\\assessment\\SVM\\SVM\\VirtualMachine\\SVM.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sagharfadaei\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Sagharfadaei\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Sagharfadaei\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Sagharfadaei\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

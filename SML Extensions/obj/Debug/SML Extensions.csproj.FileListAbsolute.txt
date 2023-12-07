@@ -1,0 +1,17 @@
+C:\Users\Sagharfadaei\Desktop\700112\John\assessment\SVM\SVM\bin\Debug\SML Extensions.deps.json
+C:\Users\Sagharfadaei\Desktop\700112\John\assessment\SVM\SVM\bin\Debug\SML Extensions.dll
+C:\Users\Sagharfadaei\Desktop\700112\John\assessment\SVM\SVM\bin\Debug\SML Extensions.pdb
+C:\Users\Sagharfadaei\Desktop\700112\John\assessment\SVM\SVM\SML Extensions\obj\Debug\SML Extensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sagharfadaei\Desktop\700112\John\assessment\SVM\SVM\SML Extensions\obj\Debug\SML Extensions.AssemblyInfoInputs.cache
+C:\Users\Sagharfadaei\Desktop\700112\John\assessment\SVM\SVM\SML Extensions\obj\Debug\SML Extensions.AssemblyInfo.cs
+C:\Users\Sagharfadaei\Desktop\700112\John\assessment\SVM\SVM\SML Extensions\obj\Debug\SML Extensions.csproj.CoreCompileInputs.cache
+C:\Users\Sagharfadaei\Desktop\700112\John\assessment\SVM\SVM\SML Extensions\obj\Debug\SML Extensions.dll
+C:\Users\Sagharfadaei\Desktop\700112\John\assessment\SVM\SVM\SML Extensions\obj\Debug\refint\SML Extensions.dll
+C:\Users\Sagharfadaei\Desktop\700112\John\assessment\SVM\SVM\SML Extensions\obj\Debug\SML Extensions.pdb
+C:\Users\Sagharfadaei\Desktop\700112\John\assessment\SVM\SVM\SML Extensions\obj\Debug\ref\SML Extensions.dll
+C:\Users\Sagharfadaei\Desktop\700112\John\assessment\SVM\SVM\bin\Debug\SVM.deps.json
+C:\Users\Sagharfadaei\Desktop\700112\John\assessment\SVM\SVM\bin\Debug\SVM.runtimeconfig.json
+C:\Users\Sagharfadaei\Desktop\700112\John\assessment\SVM\SVM\bin\Debug\Sample.sml
+C:\Users\Sagharfadaei\Desktop\700112\John\assessment\SVM\SVM\bin\Debug\SVM.exe
+C:\Users\Sagharfadaei\Desktop\700112\John\assessment\SVM\SVM\SML Extensions\obj\Debug\SML Extensions.csproj.AssemblyReference.cache
+C:\Users\Sagharfadaei\Desktop\700112\John\assessment\SVM\SVM\SML Extensions\obj\Debug\SML Extensions.csproj.CopyComplete

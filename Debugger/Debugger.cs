@@ -1,0 +1,2 @@
+﻿//Initially, a circular dependency issue arose due to the `Debugger` class being in a separate project referenced by the SVM project.
+//To resolve this, I relocated `Debugger.cs` into the SVM project. This change eliminated the dependency loop and simplified the project structure.

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SVM/1.0.0": {
+        "dependencies": {
+          "Debugger": "1.0.0"
+        },
+        "runtime": {
+          "SVM.dll": {}
+        }
+      },
+      "Debugger/1.0.0": {
+        "runtime": {
+          "Debugger.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SVM/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Debugger/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

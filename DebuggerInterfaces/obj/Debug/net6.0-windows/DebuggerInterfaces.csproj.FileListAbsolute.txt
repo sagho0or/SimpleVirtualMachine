@@ -1,0 +1,4 @@
+C:\Users\Sagharfadaei\Desktop\700112\John\assessment\SVM\SVM\DebuggerInterfaces\obj\Debug\net6.0-windows\DebuggerInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sagharfadaei\Desktop\700112\John\assessment\SVM\SVM\DebuggerInterfaces\obj\Debug\net6.0-windows\DebuggerInterfaces.AssemblyInfoInputs.cache
+C:\Users\Sagharfadaei\Desktop\700112\John\assessment\SVM\SVM\DebuggerInterfaces\obj\Debug\net6.0-windows\DebuggerInterfaces.AssemblyInfo.cs
+C:\Users\Sagharfadaei\Desktop\700112\John\assessment\SVM\SVM\DebuggerInterfaces\obj\Debug\net6.0-windows\DebuggerInterfaces.csproj.CoreCompileInputs.cache

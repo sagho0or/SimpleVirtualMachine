@@ -1,0 +1,11 @@
+C:\Users\Sagharfadaei\Desktop\700112\John\assessment\SVM\SVM\Debugger\obj\Debug\Debugger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sagharfadaei\Desktop\700112\John\assessment\SVM\SVM\Debugger\obj\Debug\Debugger.AssemblyInfoInputs.cache
+C:\Users\Sagharfadaei\Desktop\700112\John\assessment\SVM\SVM\Debugger\obj\Debug\Debugger.AssemblyInfo.cs
+C:\Users\Sagharfadaei\Desktop\700112\John\assessment\SVM\SVM\Debugger\obj\Debug\Debugger.csproj.CoreCompileInputs.cache
+C:\Users\Sagharfadaei\Desktop\700112\John\assessment\SVM\SVM\bin\Debug\Debugger.deps.json
+C:\Users\Sagharfadaei\Desktop\700112\John\assessment\SVM\SVM\bin\Debug\Debugger.dll
+C:\Users\Sagharfadaei\Desktop\700112\John\assessment\SVM\SVM\bin\Debug\Debugger.pdb
+C:\Users\Sagharfadaei\Desktop\700112\John\assessment\SVM\SVM\Debugger\obj\Debug\Debugger.dll
+C:\Users\Sagharfadaei\Desktop\700112\John\assessment\SVM\SVM\Debugger\obj\Debug\refint\Debugger.dll
+C:\Users\Sagharfadaei\Desktop\700112\John\assessment\SVM\SVM\Debugger\obj\Debug\Debugger.pdb
+C:\Users\Sagharfadaei\Desktop\700112\John\assessment\SVM\SVM\Debugger\obj\Debug\ref\Debugger.dll
